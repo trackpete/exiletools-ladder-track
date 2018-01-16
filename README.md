@@ -1,3 +1,12 @@
+https://www.reddit.com/r/pathofexiledev/comments/4xviyw/psa_exiletools_shutting_down_after_prophecy/
+
+# This tool and the server backend is no longer active
+
+Due to problems with the GGG Ladder API and their lack of active development, I stopped hosting and running the system required for this macro to work.
+
+----------------------
+
+
 # ExileTools Ladder Track UI Overlay
 
 Ladder Track is a simple web page that shows a character's current Rank on the Official Ladder, updated every 8-10min. This macro will display this information in-game, automatically refreshing to keep you up to date.
